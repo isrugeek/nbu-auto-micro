@@ -21,4 +21,5 @@
 *to run the code*
 1. git clone this repo
 2. be on the cloned `dir` and `python test_motor.py`
+3. `advance_test_motor.py`
 *****
