@@ -18,5 +18,7 @@
 
 ``` Make sure you set the power setup propoerly as well```
 
-*We can change the setup* 
+*to run the code*
+1. git clone this repo
+2. be on the cloned `dir` and `python test_motor.py`
 *****
