@@ -123,3 +123,4 @@ GPIO.cleanup()
 # 	       [1000, 700],
 # 	       [1600, 900],
 # 	       [2000, 10000]])
+# https://www.rototron.info/raspberry-pi-stepper-motor-tutorial/
